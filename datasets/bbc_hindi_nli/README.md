@@ -71,7 +71,7 @@ Dataset is in Hindi
 ## Dataset Structure
 
 - Data is structured in TSV format. 
-- Train and Test files are in seperate files
+- Train and Test files are in separate files
 
 
 ### Dataset Instances
